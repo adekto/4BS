@@ -1,0 +1,6 @@
+how to use:
+using your own pallet with a 1x16px image
+./4BS yoursprite.png 1x16pallet.png
+
+or if you want to use pico8 colors
+./4BS yoursprite.png
